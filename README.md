@@ -1,3 +1,3 @@
 # Software-Quality-Engineering
-# ----
-## Implement architectural tactics on Bus Tracking System
+----
+## Implement architectural tactics for `Bus Tracking System`
